@@ -57,3 +57,8 @@ To comply with modern browser standards and strict Content Security Policies (CS
 3. Enable **Developer Mode** using the toggle switch in the top-right corner.
 4. Click the **Load unpacked** button in the top-left corner.
 5. Select the folder: `Cyber-Security-Projects/browser extension for phishing detection`.
+
+### 6. The Extension in Reallife Detection
+<img width="1365" height="767" alt="Screenshot_14" src="https://github.com/user-attachments/assets/890d366b-d797-4218-b4c9-b2710738396f" />
+<img width="1365" height="767" alt="Screenshot_13" src="https://github.com/user-attachments/assets/ba87768f-b2f0-4ec7-816a-154968dfa4f1" />
+
