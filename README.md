@@ -2,7 +2,7 @@
 
 Welcome to the Cyber Security Projects repository! This repository hosts a collection of utilities, extensions, and engines designed to defend against modern web threats, credential theft, and privacy leaks.
 
-## PhishShield - Advanced Phishing & Credential Guard Extension
+## Project 1: PhishShield - Advanced Phishing & Credential Guard Extension
 An intelligent, privacy-first Manifest V3 browser extension built to detect phishing, combosquatting, and typosquatting attacks in real-time, block credential leaks over insecure connections, and provide deep site threat intelligence.
 
 ---
